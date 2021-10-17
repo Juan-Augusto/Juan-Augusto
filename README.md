@@ -3,8 +3,6 @@
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning about React and JavaScript
 - 👯 I’m looking to collaborate on Front-End development
-- 🤔 I’m looking for help with TypeScript
-- 📫 How to reach me: juanaugusto1@live.com
 <div align="center">
   <a href="https://pedantic-joliot-398cc8.netlify.app/" target="blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juan-Augusto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
