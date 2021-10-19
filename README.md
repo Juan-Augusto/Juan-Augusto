@@ -1,8 +1,9 @@
-### Hey, I`m Juan Augusto 👋
-
-- 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning about React and JavaScript
-- 👯 I’m looking to collaborate on Front-End development
+### <h1>Hey, I`m Juan Augusto 👋</h1>
+<ul>
+  <li>🔭 I’m currently working on personal projects</li>
+  <li>🌱 I’m currently learning about React and JavaScript</li>
+  <li>👯 I’m looking to collaborate on Front-End development</li>
+</ul>
 <div align="center">
   <a href="https://pedantic-joliot-398cc8.netlify.app/" target="blank">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Juan-Augusto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
