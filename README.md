@@ -5,7 +5,7 @@
   <li>👯 I’m looking to collaborate on Front-End development</li>
 </ul>
 <div align="center">
-  <a href="https://pedantic-joliot-398cc8.netlify.app/" target="blank">
+  <a href="https://portfoliojuan.netlify.app/" target="blank">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Juan-Augusto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Augusto&layout=compact&langs_count=7&bg_color=5,511,115&text_color=CCF&title_color=FCF"/>
 </div>
